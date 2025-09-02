@@ -6,4 +6,5 @@ en este repositorio esta nuestro parcial del computo l
 Docente: **Willian Alexis Montes Girón**
 
 ALUMNOS: **DAVID ALFONSO ALVARENGA BONILLA**
+
 ALUMNOS: **NELSON JAVIER MEJIA LEMUS**
