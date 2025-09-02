@@ -3,11 +3,12 @@ class Aparato:
 
     lista_aparatos = []
 
-    def _init_(self, nombre, potencia_watts, horas_mensuales):
+    def __init__(self, nombre, potencia_watts, horas_mensuales):
         self.nombre = nombre
         self.potencia = potencia_watts
         self.horas = horas_mensuales
         Aparato.lista_aparatos.append(self)
+
 
     def calcular_consumo(self):
        
@@ -23,6 +24,7 @@ class Aparato:
                 f"Costo: ${self.calcular_costo():.2f}")
     
     if __name__ == "__main__":
-        print(__name__)
-    
+     pass
+
+ 
 
