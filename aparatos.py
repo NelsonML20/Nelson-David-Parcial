@@ -22,4 +22,7 @@ class Aparato:
                 f"Horas/mes: {self.horas} | Consumo: {self.calcular_consumo():.2f} kWh | "
                 f"Costo: ${self.calcular_costo():.2f}")
     
+    if __name__ == "__main__":
+        print(__name__)
+    
 
