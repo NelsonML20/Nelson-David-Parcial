@@ -1,7 +1,13 @@
 # Nelson-David-Parcial
 en este repositorio esta nuestro parcial del computo l
 
+<img src="https://ugb.edu.sv/wp-content/uploads/2023/06/UGB_LOGOTIPO_HORIZONTAL.png">
 
+Docente: **Willian Alexis Montes Girón**
+
+ALUMNOS: **DAVID ALFONSO ALVARENGA BONILLA**
+
+ALUMNOS: **NELSON JAVIER MEJIA LEMUS**
 
 
 Preguntas 
@@ -52,3 +58,4 @@ Historial de cambios: Si cometíamos un error, podíamos volver a una versión a
 Comentarios y revisiones: Usamos pull requests para revisar el código de otros compañeros antes de integrarlo al proyecto principal.
 
 Ejemplo concreto: Un integrante del equipo encontró un error en el cálculo del costo y lo corrigió en una rama aparte. Después lo revisamos y lo fusionamos sin afectar el resto del proyecto. Esto hubiera sido muy difícil si estuviéramos trabajando todos sobre un mismo archivo sin control de versiones.
+>>>>>>> 347087cc8c4a0c1043921ae90aeea709195209b2
